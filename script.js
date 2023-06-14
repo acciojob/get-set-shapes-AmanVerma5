@@ -38,4 +38,4 @@ const sq_s = 7;
 const rectangle = new Rectangle(rect_w, rect_h);
 const square = new Square(sq_s); 
 square.getPerimeter();
-rectangle.getArea(
+rectangle.getArea();
